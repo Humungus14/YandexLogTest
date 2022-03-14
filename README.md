@@ -2,7 +2,7 @@
 
 Testing the authorization on Yandex with existing input data using Selenium 
 ___
-##Author data 
+## Author data 
 ___
 Used software: JDK v.16.0.2, Selenium Server (Grid) v.4.1.2, Webdriver for Chrome v.99.0.4844.51, ChroPath v.6.1.12,
 IntelliJ IDEA v.2021.3.2. OS: Windows 10 Pro
@@ -23,11 +23,11 @@ There are three Java classes: LoginTest, LoginPage, ProfPage. See their descript
 | `ProfPage`  | Contains `@FindBy` annotations that provide search of element (user profile menu, logout button) by XPath.<br/>Describes methods `entryMenu`,`userLogout`                                          |
 | `LoginTest` | Contains `@Test`,`@BeforeClass` and `@AfterClass` annotations. The `@BeforeClass` sets chromedriver, launches Chrome <br/>and after preparing the window switches to the Yandex authorization page |
 
-###Chrome Snapshot
+### Chrome Snapshot
 ![alt-text](../snap.png) "Сhrome browser is controlled by automated test software"
 
 
-##File set
+## File set
 1. Java classes. Links: [LoginPage class](../src/test/java/LoginPage.java), [LoginTest class](../src/test/java/LoginTest.java),<br/> [ProfPage class](../src/test/java/ProfPage.java)
 2. Chromedriver.exe. Link: [Selenium webdriver for Chrome](../chromedriver.exe)
 3. POM xml file with added dependencies. Link: [Project Object Model xml file](../pom.xml)
