@@ -24,10 +24,10 @@ There are three Java classes: LoginTest, LoginPage, ProfPage. See their descript
 | `LoginTest` | Contains `@Test`,`@BeforeClass` and `@AfterClass` annotations. The `@BeforeClass` sets chromedriver, launches Chrome <br/>and after preparing the window switches to the Yandex authorization page |
 
 ### Chrome Snapshot
-![alt-text](/YandexLogTest/snap.png) "Сhrome browser is controlled by automated test software"
+![alt-text](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/snap.png) "Сhrome browser is controlled by automated test software"
 
 
 ## File set
-1. Java classes. Links: [LoginPage class](../src/test/java/LoginPage.java), [LoginTest class](../src/test/java/LoginTest.java),<br/> [ProfPage class](../src/test/java/ProfPage.java)
-2. Chromedriver.exe. Link: [Selenium webdriver for Chrome](../chromedriver.exe)
-3. POM xml file with added dependencies. Link: [Project Object Model xml file](../pom.xml)
+1. Java classes. Links: [LoginPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginPage.java), [LoginTest class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginTest.java),<br/> [ProfPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/ProfPage.java)
+2. Chromedriver.exe. Link: [Selenium webdriver for Chrome](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/chromedriver.exe)
+3. POM xml file with added dependencies. Link: [Project Object Model xml file](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/pom.xml)
