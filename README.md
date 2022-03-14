@@ -2,9 +2,9 @@
 
 Testing the authorization on Yandex with existing input data using Selenium 
 ___
-## Author data 
+## Test Environment: used software
 ___
-Used software: JDK v.16.0.2, Selenium Server (Grid) v.4.1.2, Webdriver for Chrome v.99.0.4844.51, ChroPath v.6.1.12,
+JDK v.16.0.2, Selenium Server (Grid) v.4.1.2, Webdriver for Chrome v.99.0.4844.51, ChroPath v.6.1.12,
 IntelliJ IDEA v.2021.3.2. OS: Windows 10 Pro
 
 This simple autotest serves to imitate user activity: 
