@@ -24,7 +24,7 @@ There are three Java classes: LoginTest, LoginPage, ProfPage. See their descript
 | `LoginTest` | Contains `@Test`,`@BeforeClass` and `@AfterClass` annotations. The `@BeforeClass` sets chromedriver, launches Chrome <br/>and after preparing the window switches to the Yandex authorization page |
 
 ### Chrome Snapshot
-![alt-text](../snap.png) "Сhrome browser is controlled by automated test software"
+![alt-text](/YandexLogTest/snap.png) "Сhrome browser is controlled by automated test software"
 
 
 ## File set
