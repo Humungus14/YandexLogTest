@@ -1,9 +1,9 @@
 # Yandex authorization testing
 
 Testing the authorization on Yandex with existing input data using Selenium 
-___
+
 ## Test Environment: used software
-___
+
 JDK v.16.0.2, Selenium Server (Grid) v.4.1.2, Webdriver for Chrome v.99.0.4844.51, ChroPath v.6.1.12,
 IntelliJ IDEA v.2021.3.2. OS: Windows 10 Pro
 
@@ -26,6 +26,8 @@ There are three Java classes: LoginTest, LoginPage, ProfPage. See their descript
 ### Chrome Snapshot
 ![alt-text](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/snap.png) "Сhrome browser is controlled by automated test software"
 
+### Video
+![alt-text]() "Autotest running"
 
 ## File set
 1. Java classes. Links: [LoginPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginPage.java), [LoginTest class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginTest.java),<br/> [ProfPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/ProfPage.java)
