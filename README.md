@@ -27,7 +27,7 @@ There are three Java classes: LoginTest, LoginPage, ProfPage. See their descript
 ![alt-text](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/snap.png) "Сhrome browser is controlled by automated test software"
 
 ### Video
-![alt-text](test_run.mp4) "Autotest running"
+![alt-text](https://github.com/egkulikova/YandexLogTest/blob/cdc5156c38869ee0e9dd075c9285b6eb3ec1e820/test_run.mp4) "Autotest running"
 
 ## File set
 1. Java classes. Links: [LoginPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginPage.java), [LoginTest class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/LoginTest.java),<br/> [ProfPage class](https://github.com/egkulikova/YandexLogTest/blob/6ea6576710da521a53a4df122d8991f9d7da2f8f/src/test/java/ProfPage.java)
